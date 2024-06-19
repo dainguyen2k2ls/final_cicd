@@ -1,11 +1,11 @@
-# -*- coding: utf-8 -*-
-
-def hello_world():
+def main():
     """
-    Hàm để in ra chuỗi 'Hello, world!'
+    Hàm chính của chương trình.
+
+    In ra dòng chữ "Hello, World!".
     """
-    print("Hello, world!")
+    print("Hello, World!")
 
 
-# Gọi hàm hello_world để in ra chuỗi "Hello, world!"
-hello_world()
+if __name__ == "__main__":
+    main()
