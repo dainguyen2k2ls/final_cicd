@@ -1,5 +1,11 @@
-def main():
-    print("Hello, World!")
+# -*- coding: utf-8 -*-
 
-if __name__ == "__main__":
-    main()
+def hello_world():
+    """
+    Hàm để in ra chuỗi 'Hello, world!'
+    """
+    print("Hello, world!")
+
+
+# Gọi hàm hello_world để in ra chuỗi "Hello, world!"
+hello_world()
