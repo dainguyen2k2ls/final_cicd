@@ -27,3 +27,17 @@ X-Parent-Response-Time: 98,113.171.12.173
 
 {"code":0,"msg":"ok","data":{"redirect_uri":"http:\/\/localhost\/wordpress\/wp-admin\/","app_id":"7382265490531418128","app_secret":"b6c836cb97d8623fc9122625e925e57a955e13ba","external_data_key":"09631b52-98ec-4b6c-9f05-950a8301a96e"}}
 
+2024-06-19T18:12:37+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-19T18:12:37+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-19T18:12:37+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-19T18:12:37+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-19T18:12:37+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-19T18:12:38+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-19T18:25:03+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2024-06-19T18:25:03+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2024-06-19T18:25:07+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-06-19T18:25:07+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-06-19T18:25:12+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-06-19T18:25:12+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-06-19T18:28:49+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-06-19T18:28:49+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
