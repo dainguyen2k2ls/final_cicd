@@ -1,5 +1,5 @@
 def main():
-    """
+   
     Hàm chính của chương trình.
 
     In ra dòng chữ "Hello, World!".
