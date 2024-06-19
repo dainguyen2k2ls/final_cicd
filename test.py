@@ -8,4 +8,6 @@ def hello_world():
 
 
 # Gọi hàm hello_world để in ra chuỗi "Hello, world!"
-hello_world(
+hello_world()
+
+
